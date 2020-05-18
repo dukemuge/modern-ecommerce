@@ -1,14 +1,9 @@
-## Current Project Status
-
-Hi all, we have moved to official project in new repository https://github.com/NIT-Software/Modern-Ecommerce to have better support & development plan. So please follow and update in latest Repo. We're looking for all developer to contribute to make a great modern Open Source E-comerce Platform. If any question please drop me an email to john@nit-software.com or open ticket in Issue List. Thank you all! 
 
 
 ## Introduction 
 
 Modern-Ecommerce is enterprise open-source extensible ecommerce architecture. With Core backend using JAVA Spring (Spring boot) REST APIs & Frontend using Bootstrap/AngularUI AngularJS fro frontend. Fully support AWS inflashstructure (EC2, Database RDS, Mail service SES, etc) to run system on the cloud inflashstructure.
 
-## System Architect
-![image](https://cloud.githubusercontent.com/assets/1794584/19210154/073a9c9e-8d45-11e6-9da5-6db3170b3833.png)
 
 ### Roadmap
 https://trello.com/b/A1OPzefs/cloud-modern-e-commerce-platform
